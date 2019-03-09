@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "497811625996",
+    "firebase_url": "https://reco-6cd09.firebaseio.com",
+    "project_id": "reco-6cd09",
+    "storage_bucket": "reco-6cd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497811625996:android:9fb43a716f86083d",
+        "android_client_info": {
+          "package_name": "com.cratisspace.avinashbadramoni.reco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497811625996-jqhnjtm5m51upohb4ue3jrvagqnh4p8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cratisspace.avinashbadramoni.reco",
+            "certificate_hash": "0d9aa268123d39964fbf23548da57baac4e79045"
+          }
+        },
+        {
+          "client_id": "497811625996-7620lsvglv87gm8t8v6b7uibhrjfr8nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEzVthdtijOf8_HqSwLuci2sGF9A-dWYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497811625996-7620lsvglv87gm8t8v6b7uibhrjfr8nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
